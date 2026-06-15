@@ -1,0 +1,6 @@
+{
+  "name": "Water Wave Simulator",
+  "description": "물속에 돌맹이를 던졌을 때의 파동과 물결을 2D 및 3D로 실시간 시뮬레이션하고, 돌 크기와 높이에 따른 충격 효과를 관찰할 수 있는 물리 시뮬레이터입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
